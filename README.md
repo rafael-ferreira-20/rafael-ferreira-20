@@ -1,5 +1,5 @@
 ## Salut! Moi C'est Rafael :raised_hand_with_fingers_splayed:
-![Fraga GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=rafael-ferreira-20&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](github-readme-stats-zeta-rosy.vercel.app/api?username=rafael-ferreira-20&show_icons=true&theme=dracula&count_private=true)
 ## Technologies que j'utilise dans ma journée
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
