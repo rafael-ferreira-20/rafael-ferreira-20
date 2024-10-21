@@ -11,5 +11,3 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
-Je suis développeur web avec une passion pour créer des sites performants et bien conçus. J'ai de l'expérience en PHP avec le framework Laravel.
-J'utilise également des outils front-end comme React.js, Bootstrap et Tailwind CSS pour créer des interfaces utilisateur.
